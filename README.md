@@ -1,7 +1,7 @@
 # Vagrant - or - how to code in your local computer
-##Learning Objectives
+## Learning Objectives
 I am expected to be able to explain to anyone, without the help of Google
-###General
+### General
 *  A virtual machine (VM) is a software environment that mimics a physical machine, enabling multiple operating systems or applications to run on a single physical machine.
 * Vagrant is a tool used for building and managing virtual machine environments. It provides an easy-to-use command line interface for managing virtual machines and automates the process of creating and configuring them.
 * Vagrant was created by Mitchell Hashimoto, an American software engineer and entrepreneur.
